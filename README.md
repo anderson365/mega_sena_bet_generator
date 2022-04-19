@@ -1,3 +1,10 @@
+
+<h1 align="center">Mega-Sena Bet Generator</h1>
+<p align="center">
+<img src="https://raw.githubusercontent.com/anderson365/mega_sena_bet_generator/6e67731562bf55b2f4ebd2bc86aed55f34f1cd0f/public/preview.gif" alt="Project preview">
+</p>
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
